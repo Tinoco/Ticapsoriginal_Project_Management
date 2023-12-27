@@ -1,0 +1,1 @@
+https://www.bing.com/webmaster/ping.aspx?sitemap=https://www.mydomain.com/sitemap.xml

@@ -1,0 +1,12 @@
+Registrar Info
+NamePDR Ltd. d/b/a PublicDomainRegistry.com
+Whois Serverwhois.publicdomainregistry.com
+Referral URLwww.publicdomainregistry.com
+Status clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Important Dates
+Expires On2024-12-02
+Registered On2021-12-02
+Updated On2023-12-04
+Name Servers
+ns960.hostgator.com.br 162.241.2.231
+ns961.hostgator.com.br 162.241.2.232

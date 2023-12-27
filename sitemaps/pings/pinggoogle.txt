@@ -1,0 +1,1 @@
+https://www.google.com/webmasters/tools/ping?sitemap=https://www.mydomain.com/sitemap.xml
