@@ -1,0 +1,20 @@
+problematic : generate large amount of data with md extension.
+
+solution:
+libs to scan large sitemaps, acess https protocols and parsing html requested code to md . 
+
+code sketch : 
+
+advertools - > identify large sitemaps
+urlib3 and request - > acess urlsessions 
+bs4 -> read html code from requested url
+python-markdownnify - > convert and parsing html to md
+tqdm - > bar to track progress  
+
+expectation : generate large amount of md files from each  page inside large sitemap 
+
+usage
+install requirements list 
+and run python file genmd.py
+
+pycodestyle 100 % coverage
