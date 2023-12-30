@@ -1,0 +1,20 @@
+problematic : generate marketing plan folder artictecture .
+
+solution:
+solution 1 :
+make a read mode in each line from document 
+reorganize the folder after this
+solution 2 :
+make list with each marketing type.
+if use this solution we need take the list var names , and make one folder for each item inside the list .
+ 
+code sketch : 
+
+use os simple lib to make new directories .
+
+expectation : generate one folder for each line from document , convert pdf or can read only valid lines and execute de folder maker script.
+
+usage
+just run python file genmarketingfolder.py
+
+pycodestyle 100 % coverage
