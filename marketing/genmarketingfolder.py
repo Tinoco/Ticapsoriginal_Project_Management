@@ -2,6 +2,7 @@ import os
 import sys
 
 
+os.mkdir("marketingarquitecturefolders")
 with open("Ticapsoriginal_Marketing.txt", 'rU') as j:
     for line in j:
         line = line.strip().split()
