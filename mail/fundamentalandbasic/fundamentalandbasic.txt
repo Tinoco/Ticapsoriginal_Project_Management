@@ -1,0 +1,28 @@
+Email marketing fundamental and basic :
+
+to understand basic email marketing you need :
+
+learning about newsletter - > newsletter its about have one subscription system
+
+the basic sample its mailchimp embeed code .
+acess the site : https://mailchimp.com/en/ and get one embeed code:
+https://mailchimp.com/en/
+
+implementing mailchimp code :
+https://mailchimp.com/pt-br/help/add-a-signup-form-to-your-website/
+
+register on mailchimp plattaform , get div code and add to your html code .
+
+the new users now can subscribe and receive emails from your business.
+
+advantages :
+
+its simple, you can use the management from mailchimp , build emails and can shendule mails to sent .
+
+- stay focused on clean email list .
+- dont sent emails out of correct time , identify the timezone and sent betwen 8 am and 8 pm courrent time .
+- if possible, check A B test metrics, its about improve your email performance 
+- maybe you need decated ip to sent large amout of emails .
+
+ 
+
