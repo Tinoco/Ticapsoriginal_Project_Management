@@ -1,0 +1,1 @@
+design feature its create all roadmap, storyteling and explanation how many libs and code its necessary to make one feature.

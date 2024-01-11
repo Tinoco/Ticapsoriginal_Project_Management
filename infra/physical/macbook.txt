@@ -8,3 +8,7 @@ MacBook Pro
 16 GB 1600 MHz DDR3
 
 Intel HD Graphics 4000 1536 MB
+
+Running the command sudo sysdiagnose -f ~/Desktop/ will generate files zipped up in a TAR package on your desktop that can help diagnose problems with your MacBook Pro.
+
+
