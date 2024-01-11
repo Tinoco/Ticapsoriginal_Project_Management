@@ -1,0 +1,18 @@
+kernel_task problem 
+
+staring using d lang for monitoring sys process
+
+instaling d lang
+
+curl -fsS https://dlang.org/install.sh | bash -s dmd
+
+activate d lang compiler env
+source ~/dlang/dmd-2.106.1/activate
+
+using dtrace to count entry running process.
+
+dtrace -n 'syscall:::entry{@[execname] = count();}'.
+
+objective : 
+opening kernel_task
+
